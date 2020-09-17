@@ -29,6 +29,10 @@ h3{
 p{
   line-height: 2;
 }
+.span{
+  color: #3282b8;
+  font-family: 'montserrat',serif;
+  font-size: 1.25rem;
 hr{
   border: dotted;
   border-bottom: none;
@@ -72,14 +76,14 @@ a:hover{
 }
 .top-cloud{
   position: absolute;
-  right: 100px;
+  right: 500px;
   top: 50px;
 
 }
 .bottom-cloud{
   position: absolute;
   left: 10px;
-  bottom: 500px;
+  bottom: 100px;
 }
 .skill-row1{
   width: 50%;
